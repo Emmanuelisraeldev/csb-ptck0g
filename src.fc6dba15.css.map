@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.css"],"names":[],"mappings":"AAAA,KACE,sBACF,CAEA,OACE,qBACF","file":"src.fc6dba15.css","sourceRoot":"..","sourcesContent":["body {\n  font-family: sans-serif;\n}\n\n#users {\n  background-color: aqua;\n}\n"]}
